@@ -40,6 +40,8 @@
     </main>
 
     <script src="{!! url('assets/bootstrap/js/bootstrap.bundle.min.js') !!}"></script>
-      
+    @section("scripts")
+
+    @show
   </body>
 </html>
