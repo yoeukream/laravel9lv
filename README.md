@@ -51,16 +51,16 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+សូមអរគុណចំពោះការពិចារណាក្នុងការរួមចំណែកដល់ក្របខ័ណ្ឌ Laravel! ការណែនាំអំពីការរួមចំណែកអាចរកបាននៅក្នុង [ឯកសារ Laravel](https://laravel.com/docs/contributions)។
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+ដើម្បីធានាថាសហគមន៍ Laravel ត្រូវបានស្វាគមន៍ចំពោះអ្នកទាំងអស់គ្នា សូមពិនិត្យមើល និងគោរពតាម [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct)។
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+ប្រសិនបើអ្នករកឃើញភាពងាយរងគ្រោះផ្នែកសុវត្ថិភាពនៅក្នុង Laravel សូមផ្ញើអ៊ីមែលទៅកាន់ Taylor Otwell តាមរយៈ [taylor@laravel.com](mailto:taylor@laravel.com)។ ភាពងាយរងគ្រោះផ្នែកសុវត្ថិភាពទាំងអស់នឹងត្រូវបានដោះស្រាយភ្លាមៗ។
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Laravel framework គឺជា open-sourced software licensed ដែលបង្កើតឡើងដោយ[MIT license](https://opensource.org/licenses/MIT)
