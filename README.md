@@ -17,6 +17,9 @@
   -  **DB_USERNAME=root**
   -  **DB_PASSWORD=**
 
+## ដោយយើងប្រើប្រាស់រូបភាពជាមួយ MediaLibrary យើងត្រូវប្រើ command
+  - $ php artisan storage:link
+
 
 ## About Laravel
 
