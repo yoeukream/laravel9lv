@@ -20,7 +20,9 @@
 ## ដោយយើងប្រើប្រាស់រូបភាពជាមួយ MediaLibrary យើងត្រូវប្រើ command
   - $ php artisan storage:link
 
-
+## Run Laravel Framework
+  - $ php artisan serve
+  - ចូលទៅកាន់ browser វាយ ពាក្យថា localhost:8000
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
